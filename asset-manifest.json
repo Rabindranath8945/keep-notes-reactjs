@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/keep-notes-reactjs/static/css/main.2c06742f.chunk.css",
+    "main.js": "/keep-notes-reactjs/static/js/main.7a56a99e.chunk.js",
+    "main.js.map": "/keep-notes-reactjs/static/js/main.7a56a99e.chunk.js.map",
+    "runtime-main.js": "/keep-notes-reactjs/static/js/runtime-main.54a7f9b8.js",
+    "runtime-main.js.map": "/keep-notes-reactjs/static/js/runtime-main.54a7f9b8.js.map",
+    "static/js/2.dd39d364.chunk.js": "/keep-notes-reactjs/static/js/2.dd39d364.chunk.js",
+    "static/js/2.dd39d364.chunk.js.map": "/keep-notes-reactjs/static/js/2.dd39d364.chunk.js.map",
+    "index.html": "/keep-notes-reactjs/index.html",
+    "static/css/main.2c06742f.chunk.css.map": "/keep-notes-reactjs/static/css/main.2c06742f.chunk.css.map",
+    "static/js/2.dd39d364.chunk.js.LICENSE.txt": "/keep-notes-reactjs/static/js/2.dd39d364.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.54a7f9b8.js",
+    "static/js/2.dd39d364.chunk.js",
+    "static/css/main.2c06742f.chunk.css",
+    "static/js/main.7a56a99e.chunk.js"
+  ]
+}
